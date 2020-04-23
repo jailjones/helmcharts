@@ -3,12 +3,12 @@ entries:
   my-demo-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-22T19:30:10.459195-05:00"
+    created: "2020-04-22T19:45:03.151622-05:00"
     description: A Helm chart for Kubernetes
     digest: 71d7c6d0eba1a76bfc7f8954d1b57574b58cc4d26de97400bf65b81a904ded02
     name: my-demo-chart
     type: application
     urls:
-    - http://jaijones.me/helmcharts/my-demo-chart-0.1.0.tgz
+    - https://jailjones.github.io/helmcharts/my-demo-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-22T19:30:10.452246-05:00"
+generated: "2020-04-22T19:45:03.147542-05:00"
